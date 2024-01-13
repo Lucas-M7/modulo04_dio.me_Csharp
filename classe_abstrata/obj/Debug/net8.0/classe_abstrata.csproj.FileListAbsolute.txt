@@ -1,0 +1,15 @@
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\bin\Debug\net8.0\classe_abstrata.exe
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\bin\Debug\net8.0\classe_abstrata.deps.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\bin\Debug\net8.0\classe_abstrata.runtimeconfig.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\bin\Debug\net8.0\classe_abstrata.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\bin\Debug\net8.0\classe_abstrata.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\obj\Debug\net8.0\classe_abstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\obj\Debug\net8.0\classe_abstrata.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\obj\Debug\net8.0\classe_abstrata.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\obj\Debug\net8.0\classe_abstrata.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\obj\Debug\net8.0\classe_abstrata.sourcelink.json
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\obj\Debug\net8.0\classe_abstrata.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\obj\Debug\net8.0\refint\classe_abstrata.dll
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\obj\Debug\net8.0\classe_abstrata.pdb
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\obj\Debug\net8.0\classe_abstrata.genruntimeconfig.cache
+C:\Users\Lucas\Downloads\curso_dio.me\desenvolvimento.NET\modulo_04\classe_abstrata\obj\Debug\net8.0\ref\classe_abstrata.dll
