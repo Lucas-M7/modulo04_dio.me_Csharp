@@ -1,26 +1,52 @@
 ﻿using classe_abstrata.Models;
+using classe_abstrata.Interfaces;
+
+ICalculadora calc = new Calculadora();
+Console.WriteLine(calc.Multiplicar(3, 3));
 
 
 
 
-object objeto = "It's a object";
 
-//Métodos da Classe Object
-Console.WriteLine("ToString(): " + objeto.ToString());
-Console.WriteLine("GetHasCode(): " + objeto.GetHashCode());
 
-//Comparação de Referência
-object outroObjeto = "It's other object";
-Console.WriteLine("Comparação de referência: " + (objeto == outroObjeto));
 
-//Pode ser usado como tipo genérico
-var listaDeObjetos = new System.Collections.Generic.List<object>();
-listaDeObjetos.Add(23);
-listaDeObjetos.Add("Hello");
 
-//Unboxing
-int numero = (int)listaDeObjetos[0];
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// object objeto = "It's a object";
+
+// //Métodos da Classe Object
+// Console.WriteLine("ToString(): " + objeto.ToString());
+// Console.WriteLine("GetHasCode(): " + objeto.GetHashCode());
+
+// //Comparação de Referência
+// object outroObjeto = "It's other object";
+// Console.WriteLine("Comparação de referência: " + (objeto == outroObjeto));
+
+// //Pode ser usado como tipo genérico
+// var listaDeObjetos = new System.Collections.Generic.List<object>();
+// listaDeObjetos.Add(23);
+// listaDeObjetos.Add("Hello");
+
+// //Unboxing
+// int numero = (int)listaDeObjetos[0];
 
 
 
